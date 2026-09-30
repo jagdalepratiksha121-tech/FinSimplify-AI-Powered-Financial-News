@@ -1,0 +1,6 @@
+{
+  "name": "FinNews AI – Financial News Simplifier",
+  "description": "Complex Financial News. Made Simple. AI-powered financial and business news simplifier for students, retail investors, and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
