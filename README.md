@@ -1,4 +1,6 @@
 # FinNews AI – Financial News Simplifier
+Google Drive Demo-Link:
+https://drive.google.com/file/d/1HnodBDmWZs2L4LUmegLH-QSoofxF8l1A/view?usp=drivesdk
 
 > **Tagline:** Complex Financial News. Made Simple.
 
